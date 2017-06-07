@@ -1,12 +1,3 @@
-// ==UserScript==
-// @name        Trello card progress
-// @namespace   trello
-// @author      Tuomas Kinnunen
-// @description Add a thin progress bar to trello cards that have a checklist
-// @include     https://trello.com/b/*
-// @version     1
-// @grant       none
-// ==/UserScript==
 window.addEventListener ("load", Greasemonkey_main, false);
 function Greasemonkey_main () {
   var cards = document.getElementsByClassName('list-card-details');
