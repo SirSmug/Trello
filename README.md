@@ -3,7 +3,7 @@
 // @namespace   trello
 // @author      Tuomas Kinnunen
 // @description Add a thin progress bar to trello cards that have a checklist
-// @include     https://trello.com/b/*
+// @include     https://trello.com/b/wwwNrpTs
 // @version     1
 // @grant       none
 // ==/UserScript==
